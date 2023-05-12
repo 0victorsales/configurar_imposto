@@ -1,0 +1,10 @@
+# Xpath's
+xpath_email = '/html/body/form/div/div/div[2]/section[3]/div/input[1]'
+xpath_click__email = '/html/body/form/div/div/div[2]/section[3]/div/button'
+xpath_senha = '/html/body/form/div/div/div[2]/section[4]/div/input'
+xpath_click_senha = '/html/body/form/div/div/div[2]/section[4]/div/button[2]'
+xpath_base = '/html/body/div[1]/div/main/div/div[1]/div[2]/div/div[3]/div/div[2]/div[4]/div/button[2]'
+xpath_vendas = '/html/body/div[2]/div[5]/div[2]/ul/li[2]/a'
+xpath_vendas_nfe = '/html/body/div[2]/header/div[3]/div/ul/li[2]/a'
+xpath_configurar_impostos = '/html/body/div[2]/div[1]/div[2]/form/div/div[2]/div/div[1]/div/ul/li[4]/a/span'
+xpath_mensage_box = '/html/body/div[7]/div/div/div[2]/button[2]'
